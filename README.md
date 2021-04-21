@@ -2,7 +2,7 @@
 
 ##Código Para mudar Efeitos em imagens.
 
->>Tecnologias:
+>Tecnologias:
 
 [ ] HTML;
 
